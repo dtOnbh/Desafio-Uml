@@ -1,18 +1,22 @@
-## Getting Started
+# Modelagem e Diagramação de um Componente iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Objetivo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Criar um diagrama UML que represente as funcionalidades descritas acima.
+- Implementar as classes e interfaces correspondentes em Java (Opcional).
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Iphone UML](https://github.com/dtOnbh/Iphone-Uml/blob/main/Iphone-uml.drawio.png?raw=true)
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dtOnbh?tab=repositories)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-felix-b3021571/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dtOnbh)
+
